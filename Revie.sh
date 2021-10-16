@@ -36,9 +36,9 @@ set_sys_req(){
     echo 1 > /proc/sys/kernel/sysrq
 }
 
-write_to_memory(){
-
-}
+#write_to_memory(){
+#
+#}
 
 get_rpi_image(){
             dir=./re_pi
